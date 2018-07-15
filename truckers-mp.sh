@@ -1,7 +1,7 @@
 #!/bin/bash
 
-listurl=http://update.ets2mp.com
-dlurl=http://download.ets2mp.com/files
+listurl=https://update.ets2mp.com
+dlurl=https://download.ets2mp.com/files
 base="$PWD"
 dldir="$base/prefix/drive_c/truckersmp"
 
